@@ -38,4 +38,6 @@
     <string name="submitted">Submitted, no need to submit again</string>
     <string name="done">Done</string>
     <string name="submit">Submit</string>
+    <string name="fab_content_desc">Navigate of GDG List</string>
+    <string name="gdg_background_content_desc">Background Image of GDG Event</string>
 </resources>
